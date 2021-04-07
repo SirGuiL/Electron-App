@@ -1,3 +1,3 @@
 ﻿# Electron-App
 
-## Meu primeiro app utilizando Electron JS
+Meu primeiro app utilizando Electron JS
